@@ -10,3 +10,6 @@ Estudiantes:  Aguilar Villalobos Fernanda
 
 Docente: Rodriguez Bilbao Patricia.
 Materia: Ciencia de Datos y Machine Learning 
+
+
+Documento Colab : https://colab.research.google.com/drive/1AA0umKbINRaG7XWS2lovymBEtQuNLc0c?authuser=2#scrollTo=Z8_fEsLJBSq5
